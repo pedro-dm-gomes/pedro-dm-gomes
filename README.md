@@ -1,1 +1,1 @@
-Hi, I’m Pedro Gomes, researcher  in graph neteoks for point clouds
+Hi, I’m Pedro Gomes, researcher  in graph neural networks for point clouds
